@@ -84,14 +84,29 @@
 // console.log(x);
 
 
-console.log("1")
+// console.log("1")
 
 
-setTimeout(() => {
-    console.log("2")
+// setTimeout(() => {
+//     console.log("2")
 
-}, 0);
+// }, 0);
 
-Promise.resolve().then(()=>console.log("3")).then(()=>console.log("4"))
+// Promise.resolve().then(()=>console.log("3")).then(()=>console.log("4"))
 
-console.log("5")
+// console.log("5")
+
+// var x = 100
+
+// {
+//     var x = 500
+// }
+
+// let a = x
+// {
+//     let a = 1000
+// }
+
+// console.log(a)
+
+console.log(+"1" + +"1" + "2")
