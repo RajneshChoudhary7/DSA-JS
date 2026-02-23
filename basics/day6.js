@@ -5,6 +5,8 @@
 //         this.email = email
 //     }
 
+const { use } = require("react");
+
 //     getfullname(){
 //         return `${this.fn} ${this.ln}`
 //     }
@@ -109,4 +111,57 @@
 
 // console.log(a)
 
-console.log(+"1" + +"1" + "2")
+// console.log(+"1" + +"1" + "2")
+
+
+// obj = {
+//     a:"rajnesh",
+//     b:23
+// }
+
+// let shallowcpy = {...obj}
+ 
+// console.log(obj)
+// console.log(shallowcpy)
+// let str = JSON.stringify(obj)
+// console.log(str)
+
+
+const user = {
+  name: "Rajnweresh",
+    city: "sdf",
+    skills: ["Reacsdfsdft", "Nosdfde"]
+
+};
+const user1 = {
+  name: "Rajnesh",
+    city: "Betul",
+    skills: ["React", "Node"]
+  
+};
+
+let result  = {...user , ...user1}
+console.log(result)
+
+// // Shallow copy using spread operator
+// const copyUser = { ...user };
+
+// copyUser.name = "Raju"; 
+// console.log(user.name); // "Rajnesh" (safe change)
+
+// // But if we change nested object
+// copyUser.details.city = "Bhopal";
+// console.log(user.details.city); // "Bhopal" (nested object also changed!)
+
+
+function createUser() {
+  let user = { name: "Raj" };
+
+  return function() {
+    user.name = "Aman";
+    return user;
+  };
+}
+
+const update = createUser();
+console.log(update());

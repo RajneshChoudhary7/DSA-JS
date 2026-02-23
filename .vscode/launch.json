@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "findmax",
+      "request": "launch",
+      "mainClass": "placement.Java.findmax",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "typecastring",
+      "request": "launch",
+      "mainClass": "placement.Java.typecastring",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "sumofnum",
+      "request": "launch",
+      "mainClass": "placement.Java.sumofnum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "Hello",
