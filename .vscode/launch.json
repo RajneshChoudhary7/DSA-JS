@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "placement.classs.calculator",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "areaclass",
+      "request": "launch",
+      "mainClass": "placement.Java.areaclass",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "findarea",
+      "request": "launch",
+      "mainClass": "placement.Java.findarea",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "stringfreq",
+      "request": "launch",
+      "mainClass": "placement.Java.stringfreq",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "functins",
+      "request": "launch",
+      "mainClass": "placement.Java.functins",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "removeduplicate",
+      "request": "launch",
+      "mainClass": "placement.Java.removeduplicate",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "stringpalandrom",
+      "request": "launch",
+      "mainClass": "placement.Java.stringpalandrom",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "placement.Java.string",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "findmax",
       "request": "launch",
       "mainClass": "placement.Java.findmax",
