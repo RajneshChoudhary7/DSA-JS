@@ -1,4 +1,4 @@
-package placement.Java;
+package placement.Java.basic;
 
 
 class FindArea {

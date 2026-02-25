@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "abstractt",
+      "request": "launch",
+      "mainClass": "placement.classs.abstractt",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "zeronstwos",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.zeronstwos",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "arrrev",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.arrrev",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "maxmin",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.maxmin",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "evenbybit",
+      "request": "launch",
+      "mainClass": "placement.javaadvance.evenbybit",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "single",
+      "request": "launch",
+      "mainClass": "placement.Java.inheritence.single",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "optimizedfirst",
+      "request": "launch",
+      "mainClass": "placement.Patternprinting.optimizedfirst",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "placement.Patternprinting.first",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "calculator",
       "request": "launch",
       "mainClass": "placement.classs.calculator",
