@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "targetsum",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.targetsum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "nonrepeated",
+      "request": "launch",
+      "mainClass": "placement.Java.collections.nonrepeated",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "sortedrotated",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.sortedrotated",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "hashmap",
+      "request": "launch",
+      "mainClass": "placement.Java.collections.hashmap",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "placement.Java.collections.arraylist",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "multipleinterface",
+      "request": "launch",
+      "mainClass": "placement.Java.inheritence.multipleinterface",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "kardens",
+      "request": "launch",
+      "mainClass": "placement.Java.optimized.kardens",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "sybarray",
       "request": "launch",
       "mainClass": "placement.Java.optimized.sybarray",
