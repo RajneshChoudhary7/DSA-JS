@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "twopinter",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.twopinter",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "leaders",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.leaders",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "sumeven",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.sumeven",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "placement.Java.basic.Test",
