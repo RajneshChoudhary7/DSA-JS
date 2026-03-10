@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayRotation",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.ArrayRotation",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "rotationclock",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.rotationclock",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "leftrightsum",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.leftrightsum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "duplicate",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.duplicate",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "subarraycount",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.subarraycount",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "slidingwindow",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.slidingwindow",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "twopinter",
       "request": "launch",
       "mainClass": "Java_Dsa.Array.twopinter",
