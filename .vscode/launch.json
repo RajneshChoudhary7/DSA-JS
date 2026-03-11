@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "threepointer",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.threepointer",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "mregetwosorted",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.mregetwosorted",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "evenpostiveshift",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.evenpostiveshift",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "zeroleft",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.zeroleft",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "zeroright",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.zeroright",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "ArrayRotation",
       "request": "launch",
       "mainClass": "Java_Dsa.Array.ArrayRotation",
