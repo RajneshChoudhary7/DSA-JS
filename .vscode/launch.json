@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "maxsubarray",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.maxsubarray",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "threepointer",
       "request": "launch",
       "mainClass": "Java_Dsa.Array.threepointer",
