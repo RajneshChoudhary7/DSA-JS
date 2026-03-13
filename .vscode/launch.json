@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "frequency",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.frequency",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "vowelsandcons",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.vowelsandcons",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "rotate",
+      "request": "launch",
+      "mainClass": "Java_Dsa.arraylist.rotate",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "reversearray",
+      "request": "launch",
+      "mainClass": "Java_Dsa.arraylist.reversearray",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "Java_Dsa.arraylist.first",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "maxsubarray",
       "request": "launch",
       "mainClass": "Java_Dsa.Array.maxsubarray",
