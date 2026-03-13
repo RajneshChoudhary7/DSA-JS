@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "nonrepeating",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.nonrepeating",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "firstrepeting",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.firstrepeting",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "panagram",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.panagram",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "frequency",
       "request": "launch",
       "mainClass": "Java_Dsa.String.frequency",
