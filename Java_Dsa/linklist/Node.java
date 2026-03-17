@@ -131,5 +131,82 @@ public class Node {
     }
 
     return this;
-}    
+}  
+    public int midele(){
+        Node slow = this;
+        Node fast = this;
+
+        while(fast !=null && fast.next !=null){
+
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+        return slow.data;
+
+    }
+
+    public  Node reverse(){
+        Node prev = null;
+        Node curr = this;
+
+        while(curr != null){
+            Node next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
+    public boolean checkcycle(){
+        Node slow = this;
+        Node fast = this;
+
+        while(fast !=null && fast.next !=null){
+
+            fast = fast.next.next;
+            slow = slow.next;
+
+            if(slow == fast){
+                return true;
+            }
+        }
+        return false;
+        
+    }
+
+    public static Node mergetosortedll(Node l1 , Node l2){
+        Node temp1 = l1;
+        Node temp2 = l2;
+        Node merged = new Node(0);
+        merged.delete_at_start();
+
+        while (temp1 != null && temp2 != null) {
+            if(temp1.data>=temp2.data){
+                merged.insert_at_end(temp2.data);
+                temp2 = temp2.next;
+            }
+            else{
+                merged.insert_at_end(temp1.data);
+                temp1 = temp1.next;
+            } 
+        }
+        if(temp1 !=null){
+            while (temp1 != null) {
+                merged.insert_at_end(temp1.data);
+                temp1 = temp1.next;
+            }
+            
+        }
+        else if(temp2 != null){
+                while (temp2 !=null) {
+                    merged.insert_at_end(temp2.data);
+                    temp2 = temp2.next;
+                }
+    }
+
+    return merged;
+}
+
+
 }
