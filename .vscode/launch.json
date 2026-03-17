@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "doublyll",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doublylinklist.doublyll",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "doublyll",
+      "request": "launch",
+      "mainClass": "Java_Dsa.linklist.doublyll",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "dll",
+      "request": "launch",
+      "mainClass": "Java_Dsa.linklist.dll",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "Node$dll",
+      "request": "launch",
+      "mainClass": "Java_Dsa.linklist.Node$dll",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "reversestring",
       "request": "launch",
       "mainClass": "Java_Dsa.stack.reversestring",
