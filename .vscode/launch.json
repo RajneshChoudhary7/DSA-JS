@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sortstack",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.sortstack",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "targetpop",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.targetpop",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "stack2arraylist",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.stack2arraylist",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "findpalandrom",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.findpalandrom",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "doublyll",
       "request": "launch",
       "mainClass": "Java_Dsa.doublylinklist.doublyll",
