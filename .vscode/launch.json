@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "oneToN",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.oneToN",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "binarysearch",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.binarysearch",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "first",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.first",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "sortstack",
       "request": "launch",
       "mainClass": "Java_Dsa.stack.sortstack",
