@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "subsuquence",
+      "request": "launch",
+      "mainClass": "Java_Dsa.String.subsuquence",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "AntiClockwise",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.AntiClockwise",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "rotate90samepalce",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.rotate90samepalce",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "rotate90",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.rotate90",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "digonalsum",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.digonalsum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "sumofn",
+      "request": "launch",
+      "mainClass": "Java_Dsa.doubledarraymatrix.sumofn",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "oneToN",
       "request": "launch",
       "mainClass": "Java_Dsa.doubledarraymatrix.oneToN",
