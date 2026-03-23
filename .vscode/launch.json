@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "freqcount",
+      "request": "launch",
+      "mainClass": "Java_Dsa.arraylist.freqcount",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "removeduplicate",
+      "request": "launch",
+      "mainClass": "Java_Dsa.arraylist.removeduplicate",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "stacknextgreater",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.stacknextgreater",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "printlink",
+      "request": "launch",
+      "mainClass": "Java_Dsa.linklist.printlink",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "sortbytarget",
+      "request": "launch",
+      "mainClass": "Java_Dsa.linklist.sortbytarget",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "subsuquence",
       "request": "launch",
       "mainClass": "Java_Dsa.String.subsuquence",
