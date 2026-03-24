@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sufixsum",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.sufixsum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "prefixsum",
+      "request": "launch",
+      "mainClass": "Java_Dsa.Array.prefixsum",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "findunion",
+      "request": "launch",
+      "mainClass": "Java_Dsa.set.findunion",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "makeusinglinklist",
+      "request": "launch",
+      "mainClass": "Java_Dsa.stack.makeusinglinklist",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "freqcount",
       "request": "launch",
       "mainClass": "Java_Dsa.arraylist.freqcount",
