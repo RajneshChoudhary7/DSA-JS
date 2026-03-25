@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "insertandmax",
+      "request": "launch",
+      "mainClass": "Java_Dsa.queue.insertandmax",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "binaryconvert",
+      "request": "launch",
+      "mainClass": "Java_Dsa.queue.binaryconvert",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "halfhalfandmix",
+      "request": "launch",
+      "mainClass": "Java_Dsa.queue.halfhalfandmix",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
+      "name": "queuebyll",
+      "request": "launch",
+      "mainClass": "Java_Dsa.queue.queuebyll",
+      "projectName": "DSA-JS_f3e6b9ba"
+    },
+    {
+      "type": "java",
       "name": "sufixsum",
       "request": "launch",
       "mainClass": "Java_Dsa.Array.sufixsum",
