@@ -29,6 +29,8 @@ public class insertandmax {
         }
 
         System.out.println("final max sum = " + max);
+        System.out.println("final max sum = " + max);
+        System.out.println("final max sum = " + min);
         System.out.println("final max sum = " + min);
     }
 }
